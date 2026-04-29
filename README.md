@@ -9,7 +9,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-[View interactive dashboard here on the Power BI Service](eyJrIjoiODNkODRkMzItOTYzYy00OTAzLTgwZjktMTI0NjFmOTYxM2JjIiwidCI6Ijc1ODk4MjEwLWZiNTUtNDk2ZS1iMDEyLWUxYzAzZDEzYWI2MCJ9)
+[View interactive dashboard here on the Power BI Service](https://app.fabric.microsoft.com/reportEmbed?reportId=f4c9a01d-7a1a-4b80-9829-347b188ea7ba&autoAuth=true&ctid=75898210-fb55-496e-b012-e1c03d13ab60&actionBarEnabled=true&reportCopilotInEmbed=true)
 
 ## 📌 Project Overview
 
