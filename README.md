@@ -8,7 +8,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
---
+
 [View interactive dashboard here on the Power BI Service](eyJrIjoiODNkODRkMzItOTYzYy00OTAzLTgwZjktMTI0NjFmOTYxM2JjIiwidCI6Ijc1ODk4MjEwLWZiNTUtNDk2ZS1iMDEyLWUxYzAzZDEzYWI2MCJ9)
 
 ## 📌 Project Overview
