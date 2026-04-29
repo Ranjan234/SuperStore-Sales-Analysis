@@ -313,9 +313,7 @@ jupyter notebook Superstoresales_Analysis.ipynb
 
 ## 📸 Dashboard Screenshots
 
-| Page               | Screenshot                                           |
-| ------------------ | ---------------------------------------------------- |
-| Home               | ![Home](https://github.com/Ranjan234/SuperStore-Sales-Analysis/commit/333f472147ac88ae96f41dfb3e7b25169f5f453f)               |
+![Home](https://github.com/Ranjan234/SuperStore-Sales-Analysis/blob/main/home.png)               
 | Executive Overview | ![Executive](PowerBI/screennshots/executive.png)     |
 | Categorical View   | ![Categorical](PowerBI/screennshots/categorical.png) |
 | Customer Analytics | ![Customer](PowerBI/screennshots/customer.png)       |
