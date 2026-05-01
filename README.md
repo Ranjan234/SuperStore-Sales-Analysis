@@ -314,19 +314,19 @@ jupyter notebook Superstoresales_Analysis.ipynb
 ---
 
 ## 📸 Dashboard Screenshots
--- Home Page
+## Home Page
 ![Home](https://github.com/Ranjan234/SuperStore-Sales-Analysis/blob/main/home.png)   
 
--- Page -2
+## Page -2
 ![Executive](https://github.com/Ranjan234/SuperStore-Sales-Analysis/blob/main/executive.png)
 
--- Page- 3
+## Page- 3
 ![Categorical](https://github.com/Ranjan234/SuperStore-Sales-Analysis/blob/main/categorical.png) 
 
--- Page - 4
+## Page - 4
 ![Customer](https://github.com/Ranjan234/SuperStore-Sales-Analysis/blob/main/customer.png)       
 
--- Page - 5
+## Page - 5
 ![Market](https://github.com/Ranjan234/SuperStore-Sales-Analysis/blob/main/market.png)           |
 
 ---
