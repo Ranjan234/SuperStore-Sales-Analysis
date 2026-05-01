@@ -42,9 +42,11 @@ SuperStore-Sales-Analysis/
 ├── 📊 Super_store_sales_analysis.pbix    # Power BI Dashboard
 |
 └── 📄 README.md                          # Project Documentation
+
 ```
 
 ---
+[View_the data_set-link](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales)
 
 ## 🔄 ETL Pipeline
 
@@ -265,7 +267,7 @@ LIMIT 10;
 
 - Jupyter Notebook / Google Coolab
 - Python 3.13+
-- MySQL Server
+- MySQL 
 - Power BI Desktop
 
 ### Step 1 — Clone Repository
